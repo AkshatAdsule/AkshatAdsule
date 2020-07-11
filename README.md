@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Edabit --> https://edabit.com/user/7ea8XTQfzRWmpKAT2
+## HackerRank --> https://www.hackerrank.com/akshat_adsule
+
 <!--
 **AkshatAdsule/AkshatAdsule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
